@@ -1,5 +1,7 @@
 package JavaCore_HW1;
 
+import java.sql.SQLOutput;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -26,6 +28,7 @@ public class Main {
 
 
         course.doIt("Бизоны");
+        System.out.println("ошибка!!! где ты?");
 
 
     }
