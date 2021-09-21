@@ -1,4 +1,4 @@
-package JavaCore_HW1;
+package lesson1;
 
 public class Course {
 
