@@ -7,7 +7,7 @@ public class Main {
             stringToInt();
         } catch (MyArraySizeException e) {
 
-            System.out.println("Введен массив некорректного размера!");
+            System.out.println("Введен массив некорректного размера!!!");
         }
     }
 

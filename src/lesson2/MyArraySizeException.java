@@ -3,7 +3,7 @@ package lesson2;
 public class MyArraySizeException extends Exception {
     public void MyArraySizeException(String message) {
 
-        System.out.println("Введен массив некорректного размера!");
+        System.out.print("Введен массив некорректного размера!");
     }
 
 }
