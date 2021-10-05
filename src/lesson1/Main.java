@@ -1,6 +1,4 @@
-package JavaCore_HW1;
-
-import java.sql.SQLOutput;
+package lesson1;
 
 public class Main {
 
